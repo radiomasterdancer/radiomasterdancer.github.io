@@ -21,4 +21,4 @@ MRP.insert({
 <!-- ENDS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
   <br/>
   <b>Site Oficial<b><br/>
-  <a href="https://radiomasterdancer.blogspot.com"> https://radiomasterdancer.blogspot.com </a>  
+  <a href="https://radiomasterdancer.blogspot.com">https://radiomasterdancer.blogspot.com</a>  
