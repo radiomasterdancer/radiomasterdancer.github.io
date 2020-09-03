@@ -24,6 +24,7 @@ MRP.insert({
   <a href="https://radiomasterdancer.blogspot.com">https://radiomasterdancer.blogspot.com</a>
     <br/>
     <br/>
+    <b>Playlist da Rádio ao Vivo!<b>
 <!--PLAYLIST RÁDIO MASTER DANCER-->
     <!--OnlineRadioBox Playlist widget-->
 <div class="orbL  cmpct" id="orb_pl_8e9f4714703d98b">
